@@ -97,8 +97,16 @@ export const cardData = [
 ]
 
 export const carouselData = [
-  "./assets/carousel/mountains.jpeg",
-  "./assets/carousel/computer.jpeg",
-  "./assets/carousel/trees.jpeg",
-  "./assets/carousel/turntable.jpeg"
+  {
+    slide:"./assets/carousel/mountains.jpeg"
+  },
+  {
+    slide:"./assets/carousel/computer.jpeg"
+  },
+  {
+    slide:"./assets/carousel/trees.jpeg"
+  },
+  {
+    slide:"./assets/carousel/turntable.jpeg"
+  }
 ]
